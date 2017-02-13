@@ -77,8 +77,13 @@
 				<div class="container">
 					<!-- row 1-->
 					<div class="row">
-						<div class="col-xs-12">
-							<h1>Hai! I'm a Bootstrap Page! :D</h1>
+						<div class="welcome">
+							<div class="col-xs-12">
+								<div class="text-center">
+									<h1>WELCOME MESSAGE</h1>
+									byline text
+								</div>
+							</div>
 						</div>
 					</div>
 
@@ -115,26 +120,69 @@
 						</div>
 					</div>
 
+
+					<div class="row">
+						<div class="col-md-3">
+							<img src="http://www.fillmurray.com/g/200/200" alt="...">
+						</div>
+						<div class="col-md-9">
+								<p class="text-center">
+									EXAMPLE
+								</p>
+						</div>
+					</div>
+
+
+
+					<div class="row">
+						<div class="text-center">
+							<div class="col-md-3">
+								<img src="http://www.fillmurray.com/g/100/100" alt="..." class="img-circle">
+								<div>
+									<p>HEADING AND TEXT</p>
+								</div>
+							</div>
+						<div class="col-md-3">
+							<img src="http://www.fillmurray.com/g/100/100" alt="..." class="img-circle">
+							<div>
+								<p>HEADING AND TEXT</p>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<img src="http://www.fillmurray.com/g/100/100" alt="..." class="img-circle">
+							<div>
+								<p>HEADING AND TEXT</p>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<img src="http://www.fillmurray.com/g/100/100" alt="..." class="img-circle">
+							<div>
+								<p>HEADING AND TEXT</p>
+							</div>
+						</div>
+						</div>
+					</div>
+
+					<div class="row">
+
+					</div>
+
 					<!-- row 4 -->
 					<div class="row">
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="fillmurray">
-								Column 3/12
 							</div>
 						</div>
 					</div>
@@ -145,11 +193,8 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6">
-						=^. .^= Meow!
-					</div>
-					<div class="col-md-6">
-						&copy; 2017 Senator Arlo Productions
+					<div class="col-md-12">
+						<div class="text-center">Copyright Text</div>
 					</div>
 				</div>
 			</div>
