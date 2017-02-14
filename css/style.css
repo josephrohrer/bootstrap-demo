@@ -24,6 +24,12 @@
 	min-height: 100px;
 }
 
+.example {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
 footer {
 	background-color: #ffcc00;
 	border: 1px solid black;
